@@ -1,3 +1,5 @@
+"""  Implementation of Clonal selection algorithm using Python """
+
 import numpy as np
 import random
 

@@ -1,3 +1,8 @@
+""" Implement Ant colony optimization by solving the Traveling salesman problem using python
+Problem statement- A salesman needs to visit a set of cities exactly once and return to the original
+city. The task is to find the shortest possible route that the salesman can take to visit all the cities
+and return to the starting city """
+
 import random
 
 # Distance between 4 cities (symmetric matrix)

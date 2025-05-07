@@ -1,3 +1,7 @@
+"""  Implement Union, Intersection, Complement and Difference operations on fuzzy sets. Also
+create fuzzy relations by Cartesian product of any two fuzzy sets and perform max-min
+composition on any two fuzzy relations. """
+
 # Fuzzy Sets (as simple dictionaries with elements and their membership values)
 A = {'x': 0.6, 'y': 0.8}
 B = {'x': 0.4, 'y': 0.5}

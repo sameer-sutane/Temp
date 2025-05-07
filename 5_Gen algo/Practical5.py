@@ -1,3 +1,6 @@
+""" Optimization of genetic algorithm parameter in hybrid genetic algorithm-neural network
+modelling: Application to spray drying of coconut milk. """
+
 import numpy as np
 from sklearn.neural_network import MLPRegressor
 from sklearn.model_selection import train_test_split
